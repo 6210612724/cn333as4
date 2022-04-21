@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">UnitConverter</string>
+
+    <string name="convert">Convert</string>
+
+    <string name="temperature">temperature</string>
+    <string name="placeholder">temperature</string>
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+
+
+    <string name="distance">distance</string>
+    <string name="meter">m</string>
+    <string name="mile">mi</string>
+
+    <string name="mass">mass</string>
+    <string name="kilogram">kilogram</string>
+    <string name="pound">pound</string>
 </resources>

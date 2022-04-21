@@ -1,5 +1,6 @@
 # Unit Converter
 
-
+## การทำงานของแอพ
+	- มี 3 หน้าหลักคือ Temperature Distance และ Mass
 ## Deverloper
-	derveloped bt thanawin srisuk 6210612724
+	derveloped by thanawin srisuk 6210612724
