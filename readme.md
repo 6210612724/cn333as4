@@ -1,6 +1,10 @@
-# Unit Converter
+# CN333 Assignment 4 : Unit Converter
 
 ## การทำงานของแอพ
-	- มี 3 หน้าหลักคือ Temperature Distance และ Mass
+- มี 3 หน้าหลักคือ Temperature Distance และ Mass
+- ในแต่ละหน้าจะสามารถให้ผู้ใช้ป้อนค่าและทำการแปลงค่าไปในหน่วนต่างตามที่ผู้ใช้ต้องการ
+## Demo Video Link
+- [Go to Demo Video](https://www.youtube.com)
+
 ## Deverloper
-	derveloped by thanawin srisuk 6210612724
+	developed by thanawin srisuk 6210612724
